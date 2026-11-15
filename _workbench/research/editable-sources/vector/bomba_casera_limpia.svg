@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="600" viewBox="0 0 1200 600">
+  <defs>
+    <linearGradient id="case" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#756050"/>
+      <stop offset=".48" stop-color="#493a31"/>
+      <stop offset="1" stop-color="#2b231f"/>
+    </linearGradient>
+    <radialGradient id="face" cx="42%" cy="35%" r="70%">
+      <stop offset="0" stop-color="#f4edda"/>
+      <stop offset="1" stop-color="#c7b990"/>
+    </radialGradient>
+  </defs>
+  <g transform="translate(175 85)">
+    <rect x="100" y="80" width="650" height="330" rx="28" fill="url(#case)" stroke="#181310" stroke-width="10"/>
+    <path d="M270 80V45C270 18 292 0 320 0H530C558 0 580 18 580 45V80" fill="none" stroke="#342a24" stroke-width="28"/>
+    <rect x="120" y="105" width="610" height="42" rx="8" fill="#9b7a57" opacity=".45"/>
+    <rect x="145" y="350" width="560" height="32" rx="10" fill="#181310" opacity=".55"/>
+    <g transform="translate(210 145)">
+      <circle cx="145" cy="120" r="112" fill="#24201d" stroke="#0d0b0a" stroke-width="10"/>
+      <circle cx="145" cy="120" r="92" fill="url(#face)" stroke="#7a6a4d" stroke-width="6"/>
+      <g stroke="#4d4234" stroke-width="5">
+        <path d="M145 38V55M145 185V202M63 120H80M210 120H227"/>
+        <path d="M87 62L99 74M191 166L203 178M87 178L99 166M191 74L203 62"/>
+      </g>
+      <path d="M145 120L145 68M145 120L188 143" stroke="#2b2620" stroke-width="8" stroke-linecap="round"/>
+      <circle cx="145" cy="120" r="10" fill="#2b2620"/>
+    </g>
+    <path d="M500 210C565 160 590 220 635 180C675 145 702 175 742 140" fill="none" stroke="#a82e29" stroke-width="14" stroke-linecap="round"/>
+    <path d="M500 245C570 300 605 225 655 270C690 302 715 290 765 325" fill="none" stroke="#315e78" stroke-width="14" stroke-linecap="round"/>
+    <circle cx="746" cy="138" r="10" fill="#c79850"/>
+    <circle cx="768" cy="327" r="10" fill="#c79850"/>
+    <rect x="645" y="185" width="45" height="95" rx="8" fill="#25211f" stroke="#111" stroke-width="5"/>
+  </g>
+</svg>

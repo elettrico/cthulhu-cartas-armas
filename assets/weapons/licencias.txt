@@ -1,0 +1,457 @@
+LICENCIAS Y FUENTES DE LAS IMÁGENES DE ARMAS
+==============================================
+
+Las imágenes normalizadas se guardan en formato PNG. Cada licencia indicada
+corresponde a la imagen fuente; las adaptaciones consisten principalmente en
+redimensionado, centrado, recorte o eliminación del fondo.
+
+ak47_akm.png
+------------
+Fuente: https://commons.wikimedia.org/wiki/File:AK-47_type_II_noBG.png
+Autoría: User:Nemo5576
+Licencia: CC BY-SA 4.0 — https://creativecommons.org/licenses/by-sa/4.0
+
+ak74.png
+--------
+Fuente: https://commons.wikimedia.org/wiki/File:Ak74l.png
+Autoría: Сергей Сандалов (sAg-) (https://forum.guns.ru/forummessage/396/1987340.html)
+Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0
+
+bar_m1918.png
+-------------
+Fuente: https://commons.wikimedia.org/wiki/File:Army_Heritage_Museum_B.A.R..jpg
+Autoría: United States Army
+Licencia: Public domain
+
+barrett_m82.png
+---------------
+Fuente: https://commons.wikimedia.org/wiki/File:Barrett-M82A1-Independence-Day-2017-IZE-048-white.jpg
+Autoría: MathKnight and Zachi Evenor
+Licencia: CC BY 4.0 — https://creativecommons.org/licenses/by/4.0
+
+baston_pistola_410.png
+----------------------
+Tipo: imagen original generada con OpenAI
+Fuente externa/licencia: no aplica; no se incorporó una imagen de terceros.
+
+benellimp3.png
+--------------
+Fuente/licencia: no consta en este proyecto; imagen heredada del mazo nanDECK.
+
+beretta_ar70_90.png
+-------------------
+Fuente: https://commons.wikimedia.org/wiki/File:Beretta_AR70_noBG.png
+Autoría: italian army
+Licencia: CC BY-SA 4.0 — https://creativecommons.org/licenses/by-sa/4.0
+
+berettam9.png
+-------------
+Fuente/licencia: no consta en este proyecto; imagen heredada del mazo nanDECK.
+
+bomba_casera.png
+----------------
+Tipo: ilustración vectorial original creada para este proyecto y rasterizada a PNG
+Fuente externa/licencia: no aplica; no se incorporó una imagen de terceros.
+
+bren.png
+--------
+Tipo: imagen generada con OpenAI a partir de una referencia visual
+Referencia: https://commons.wikimedia.org/wiki/File:Bren_wog.jpg
+Autoría de la referencia: Robert DuHamel (Rsduhamel)
+Licencia de la referencia: CC BY-SA 3.0 — http://creativecommons.org/licenses/by-sa/3.0/
+Nota: conservar esta atribución junto con la imagen generada.
+
+browning_m1917.png
+------------------
+Tipo: imagen original generada con OpenAI
+Fuente externa/licencia: no aplica; no se incorporó una imagen de terceros.
+
+c4.png
+------
+Tipo: imagen original generada con OpenAI
+Fuente externa/licencia: no aplica; no se incorporó una imagen de terceros.
+
+canon_naval5_v2.png
+-------------------
+Tipo: imagen generada con OpenAI a partir de una referencia visual
+Referencia: https://commons.wikimedia.org/wiki/File:US_Navy_070111-N-4515N-509_Guided_missile_destroyer_USS_Forest_Sherman_(DDG_98)_test_fires_its_five-inch_gun_on_the_bow_of_the_ship_during_training.jpg
+Autoría de la referencia: U.S. Navy photo by Mass Communication Specialist Seaman Apprentice Joshua Adam Nuzzo
+Licencia de la referencia: Public domain
+Nota: conservar esta atribución junto con la imagen generada.
+
+canon_naval5.png
+----------------
+Tipo: imagen generada con OpenAI a partir de una referencia visual
+Referencia: https://commons.wikimedia.org/wiki/File:US_Navy_070111-N-4515N-509_Guided_missile_destroyer_USS_Forest_Sherman_(DDG_98)_test_fires_its_five-inch_gun_on_the_bow_of_the_ship_during_training.jpg
+Autoría de la referencia: U.S. Navy photo by Mass Communication Specialist Seaman Apprentice Joshua Adam Nuzzo
+Licencia de la referencia: Public domain
+Nota: conservar esta atribución junto con la imagen generada.
+
+canon_tanque120.png
+-------------------
+Tipo: imagen generada con OpenAI a partir de una referencia visual
+Referencia: https://commons.wikimedia.org/wiki/File:Rheinmetall_120_mm_gun-Leoaprd_2E.jpg
+Autoría de la referencia: JonCatalán aka Catalan
+Licencia de la referencia: CC BY 3.0 — https://creativecommons.org/licenses/by/3.0
+Nota: conservar esta atribución junto con la imagen generada.
+
+canon75.png
+-----------
+Tipo: recorte del archivo original con eliminación de fondo
+Fuente: https://commons.wikimedia.org/wiki/File:0_Canon_de_75_mm_mod%C3%A8le_1897_-_Mus%C3%A9e_de_l'arm%C3%A9e_%C3%A0_Paris_2.JPG
+Autoría: Jean-Pol GRANDMONT
+Licencia: CC BY 4.0 — https://creativecommons.org/licenses/by/4.0
+
+carabina30.png
+--------------
+Fuente/licencia: no consta en este proyecto; imagen heredada del mazo nanDECK.
+
+carabinasks.png
+---------------
+Fuente/licencia: no consta en este proyecto; imagen heredada del mazo nanDECK.
+
+claymore.png
+------------
+Fuente: https://commons.wikimedia.org/wiki/File:US_M18a1_claymore_mine.jpg
+Autoría: Ver página de origen
+Licencia: Public domain
+
+derringer25.png
+---------------
+Fuente/licencia: no consta en este proyecto; imagen heredada del mazo nanDECK.
+
+detonador.png
+-------------
+Tipo: imagen original generada con OpenAI
+Fuente externa/licencia: no aplica; no se incorporó una imagen de terceros.
+
+dinamita.png
+------------
+Tipo: ilustración vectorial original creada para este proyecto y rasterizada a PNG
+Fuente externa/licencia: no aplica; no se incorporó una imagen de terceros.
+
+escopeta10.png
+--------------
+Fuente/licencia: no consta en este proyecto; imagen heredada del mazo nanDECK.
+
+escopeta12.png
+--------------
+Fuente/licencia: no consta en este proyecto; imagen heredada del mazo nanDECK.
+
+escopeta12corredera.png
+-----------------------
+Fuente/licencia: no consta en este proyecto; imagen heredada del mazo nanDECK.
+
+escopeta12corta.png
+-------------------
+Fuente/licencia: no consta en este proyecto; imagen heredada del mazo nanDECK.
+
+escopeta12semiauto.png
+----------------------
+Fuente/licencia: no consta en este proyecto; imagen heredada del mazo nanDECK.
+
+escopeta16.png
+--------------
+Fuente/licencia: no consta en este proyecto; imagen heredada del mazo nanDECK.
+
+escopeta20.png
+--------------
+Tipo: imagen generada con OpenAI a partir de una referencia visual
+Referencia: https://commons.wikimedia.org/wiki/File:ShotgunAction.JPG
+Autoría de la referencia: The original uploader was Commander Zulu at English Wikipedia.
+Licencia de la referencia: Attribution
+Nota: conservar esta atribución junto con la imagen generada.
+
+fn_fal.png
+----------
+Fuente: https://commons.wikimedia.org/wiki/File:FN_FAL_rifle.JPG
+Autoría: Atirador
+Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0
+
+fn_minimi.png
+-------------
+Fuente: https://commons.wikimedia.org/wiki/File:FN_MINIMI_Standard_Right.jpg
+Autoría: FN Herstal
+Licencia: CC BY 2.5 — https://creativecommons.org/licenses/by/2.5
+
+fusil_aire_moran.png
+--------------------
+Tipo: imagen generada con OpenAI a partir de una referencia visual
+Referencia: https://commons.wikimedia.org/wiki/File:Girandoni_Air_Rifle.jpg
+Autoría de la referencia: Army Heritage Museum, U.S. Army
+Licencia de la referencia: Public domain
+Nota: conservar esta atribución junto con la imagen generada.
+
+fusilcerrojo.png
+----------------
+Fuente/licencia: no consta en este proyecto; imagen heredada del mazo nanDECK.
+
+fusilcerrojo30-06.png
+---------------------
+Fuente/licencia: no consta en este proyecto; imagen heredada del mazo nanDECK.
+
+fusilelefante.png
+-----------------
+Fuente/licencia: no consta en este proyecto; imagen heredada del mazo nanDECK.
+
+fusilgarandim1.png
+------------------
+Fuente/licencia: no consta en este proyecto; imagen heredada del mazo nanDECK.
+
+fusilmartin.png
+---------------
+Fuente/licencia: no consta en este proyecto; imagen heredada del mazo nanDECK.
+
+fusilmartinihenri.png
+---------------------
+Fuente/licencia: no consta en este proyecto; imagen heredada del mazo nanDECK.
+
+fusilsemi30-06.png
+------------------
+Fuente/licencia: no consta en este proyecto; imagen heredada del mazo nanDECK.
+
+galil.png
+---------
+Tipo: imagen original generada con OpenAI
+Fuente externa/licencia: no aplica; no se incorporó una imagen de terceros.
+
+gatling_1882_v2.png
+-------------------
+Tipo: imagen generada con OpenAI a partir de una referencia visual
+Referencia: https://commons.wikimedia.org/wiki/File:Fort_Laramie_National_Historic_Site_Gatling_gun_16-9-2014_15-26-03.jpg
+Autoría de la referencia: Paul Hermans
+Licencia de la referencia: CC BY-SA 4.0 — https://creativecommons.org/licenses/by-sa/4.0
+Nota: conservar esta atribución junto con la imagen generada.
+
+gatling_1882.png
+----------------
+Tipo: imagen generada con OpenAI a partir de una referencia visual
+Referencia: https://commons.wikimedia.org/wiki/File:Fort_Laramie_National_Historic_Site_Gatling_gun_16-9-2014_15-26-03.jpg
+Autoría de la referencia: Paul Hermans
+Licencia de la referencia: CC BY-SA 4.0 — https://creativecommons.org/licenses/by-sa/4.0
+Nota: conservar esta atribución junto con la imagen generada.
+
+gewehr98.png
+------------
+Tipo: imagen original generada con OpenAI
+Fuente externa/licencia: no aplica; no se incorporó una imagen de terceros.
+
+glock17.png
+-----------
+Fuente/licencia: no consta en este proyecto; imagen heredada del mazo nanDECK.
+
+granada_mano.png
+----------------
+Tipo: imagen original generada con OpenAI
+Fuente externa/licencia: no aplica; no se incorporó una imagen de terceros.
+
+imideserteagle.png
+------------------
+Fuente/licencia: no consta en este proyecto; imagen heredada del mazo nanDECK.
+
+lanzacohetes.png
+----------------
+Tipo: imagen original generada con OpenAI
+Fuente externa/licencia: no aplica; no se incorporó una imagen de terceros.
+
+lanzallamas.png
+---------------
+Fuente: https://commons.wikimedia.org/wiki/File:United_States_Model_2A1_flamethrower.jpg
+Autoría: National Museum of American History
+Licencia: Public domain
+
+leeenfield303.png
+-----------------
+Fuente/licencia: no consta en este proyecto; imagen heredada del mazo nanDECK.
+
+lewis.png
+---------
+Tipo: imagen generada con OpenAI a partir de una referencia visual
+Referencia: https://commons.wikimedia.org/wiki/File:Lewis_Gun_(derivated).jpg
+Autoría de la referencia: Balcer
+Licencia de la referencia: CC BY 2.5 — https://creativecommons.org/licenses/by/2.5
+Nota: conservar esta atribución junto con la imagen generada.
+
+lugerp08.png
+------------
+Fuente/licencia: no consta en este proyecto; imagen heredada del mazo nanDECK.
+
+m16a2.png
+---------
+Fuente: https://commons.wikimedia.org/wiki/File:M16A2_noBG.jpg
+Autoría: Armémuseum (The Swedish Army Museum)
+Licencia: CC BY-SA 4.0 — https://creativecommons.org/licenses/by-sa/4.0
+
+m4.png
+------
+Fuente: https://commons.wikimedia.org/wiki/File:PEO_M4_Carbine_RAS_M68_CCO.png
+Autoría: Photo Courtesy of PEO Soldier
+Licencia: Public domain
+
+m79.png
+-------
+Tipo: imagen generada con OpenAI a partir de una referencia visual
+Referencia: https://commons.wikimedia.org/wiki/File:M79_Grenade_launcher.jpg
+Autoría de la referencia: kitmasterbloke
+Licencia de la referencia: CC BY 2.0 — https://creativecommons.org/licenses/by/2.0
+Nota: conservar esta atribución junto con la imagen generada.
+
+mac11.png
+---------
+Tipo: imagen generada con OpenAI a partir de una referencia visual
+Referencia: https://commons.wikimedia.org/wiki/File:Flickr_-_~Steve_Z~_-_Cobray_M11.jpg
+Autoría de la referencia: Stephen Z
+Licencia de la referencia: CC BY-SA 2.0 — https://creativecommons.org/licenses/by-sa/2.0
+Nota: conservar esta atribución junto con la imagen generada.
+
+magnum357.png
+-------------
+Fuente/licencia: no consta en este proyecto; imagen heredada del mazo nanDECK.
+
+magnum44.png
+------------
+Fuente/licencia: no consta en este proyecto; imagen heredada del mazo nanDECK.
+
+mauser_c96.png
+--------------
+Tipo: imagen original generada con OpenAI
+Fuente externa/licencia: no aplica; no se incorporó una imagen de terceros.
+
+mina_antipersonal.png
+---------------------
+Tipo: imagen original generada con OpenAI
+Fuente externa/licencia: no aplica; no se incorporó una imagen de terceros.
+
+minigun.png
+-----------
+Tipo: imagen original generada con OpenAI
+Fuente externa/licencia: no aplica; no se incorporó una imagen de terceros.
+
+molotov.png
+-----------
+Tipo: imagen original generada con OpenAI
+Fuente externa/licencia: no aplica; no se incorporó una imagen de terceros.
+
+mortero81.png
+-------------
+Tipo: imagen original generada con OpenAI
+Fuente externa/licencia: no aplica; no se incorporó una imagen de terceros.
+
+mosquetespring.png
+------------------
+Fuente/licencia: no consta en este proyecto; imagen heredada del mazo nanDECK.
+
+mp18_mp28.png
+-------------
+Tipo: imagen generada con OpenAI a partir de una referencia visual
+Referencia: https://commons.wikimedia.org/wiki/File:Bergmann_MP18.1.JPG
+Autoría de la referencia: Quickload at English Wikipedia (Original text: Edmond HUET (talk))
+Licencia de la referencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0
+Nota: conservar esta atribución junto con la imagen generada.
+
+mp5.png
+-------
+Tipo: imagen generada con OpenAI a partir de una referencia visual
+Referencia: https://commons.wikimedia.org/wiki/File:Heckler_%26_Koch_MP5-1.jpg
+Autoría de la referencia: Heckler_&_Koch_MP5.jpg: Samuli Silvennoinen derivative work: Hic et nunc
+Licencia de la referencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0
+Nota: conservar esta atribución junto con la imagen generada.
+
+pauto22.png
+-----------
+Fuente/licencia: no consta en este proyecto; imagen heredada del mazo nanDECK.
+
+pauto32.png
+-----------
+Fuente/licencia: no consta en este proyecto; imagen heredada del mazo nanDECK.
+
+pauto38.png
+-----------
+Fuente/licencia: no consta en este proyecto; imagen heredada del mazo nanDECK.
+
+pauto45.png
+-----------
+Fuente/licencia: no consta en este proyecto; imagen heredada del mazo nanDECK.
+
+pchispa.png
+-----------
+Fuente/licencia: no consta en este proyecto; imagen heredada del mazo nanDECK.
+
+pistola_bengalas.png
+--------------------
+Tipo: imagen generada con OpenAI a partir de una referencia visual
+Referencia: https://commons.wikimedia.org/wiki/File:Single_shot%2C12_Gauge%2C_flare_gun.jpg
+Autoría de la referencia: P. Ubriaco
+Licencia de la referencia: CC BY 2.5 — https://creativecommons.org/licenses/by/2.5
+Nota: conservar esta atribución junto con la imagen generada.
+
+revolver32.png
+--------------
+Fuente/licencia: no consta en este proyecto; imagen heredada del mazo nanDECK.
+
+revolver38.png
+--------------
+Fuente/licencia: no consta en este proyecto; imagen heredada del mazo nanDECK.
+
+revolver41.png
+--------------
+Fuente/licencia: no consta en este proyecto; imagen heredada del mazo nanDECK.
+
+revolver45.png
+--------------
+Fuente/licencia: no consta en este proyecto; imagen heredada del mazo nanDECK.
+
+skorpion.png
+------------
+Tipo: imagen generada con OpenAI a partir de una referencia visual
+Referencia: https://commons.wikimedia.org/wiki/File:Sa_vz._61_%C5%A0korpion.jpg
+Autoría de la referencia: Land68
+Licencia de la referencia: CC0 — http://creativecommons.org/publicdomain/zero/1.0/deed.en
+Nota: conservar esta atribución junto con la imagen generada.
+
+spas12.png
+----------
+Tipo: imagen generada con OpenAI a partir de una referencia visual
+Referencia: https://commons.wikimedia.org/wiki/File:Franchi_SPAS_12_Grip_Safety.jpeg
+Autoría de la referencia: ModicumofKnowledge (talk) (Uploads)
+Licencia de la referencia: CC BY-SA 4.0 — https://creativecommons.org/licenses/by-sa/4.0
+Nota: conservar esta atribución junto con la imagen generada.
+
+steyr_aug.png
+-------------
+Fuente: https://commons.wikimedia.org/wiki/File:Steyr-AUG-A3-SF.webp
+Autoría: Alexdelarge15
+Licencia: CC BY-SA 4.0 — https://creativecommons.org/licenses/by-sa/4.0
+
+thompson.png
+------------
+Tipo: imagen generada con OpenAI a partir de una referencia visual
+Referencia: https://commons.wikimedia.org/wiki/File:Campbell_Thompson.jpg
+Autoría de la referencia: Hmaag
+Licencia de la referencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0
+Nota: conservar esta atribución junto con la imagen generada.
+
+uzi.png
+-------
+Fuente: https://commons.wikimedia.org/wiki/File:Uzi_of_the_israeli_armed_forces.jpg
+Autoría: Uziel Galishto
+Licencia: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0
+
+vickers.png
+-----------
+Tipo: imagen generada con OpenAI a partir de una referencia visual
+Referencia: https://commons.wikimedia.org/wiki/File:Vickers_Machine_Gun%2C_England%2C_1940s_-_Glenbow_Museum_-_DSC00824.JPG
+Autoría de la referencia: Daderot
+Licencia de la referencia: CC0 — http://creativecommons.org/publicdomain/zero/1.0/deed.en
+Nota: conservar esta atribución junto con la imagen generada.
+
+webley_mkvi.png
+---------------
+Tipo: imagen original generada con OpenAI
+Fuente externa/licencia: no aplica; no se incorporó una imagen de terceros.
+
+winchester_1890.png
+-------------------
+Tipo: imagen original generada con OpenAI
+Fuente externa/licencia: no aplica; no se incorporó una imagen de terceros.
+

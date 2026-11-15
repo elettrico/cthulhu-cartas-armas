@@ -1,0 +1,125 @@
+card_border:
+  x: 0mm
+  y: 0mm
+  width: 70mm
+  height: 99mm
+  fill_color: '#ffffff'
+  stroke_color: '#aa0000'
+  stroke_width: 0.35mm
+
+watermark:
+  x: 37mm
+  y: 57mm
+  width: 50mm
+  height: 50mm
+  alpha: 0.18
+
+title_band:
+  x: 0mm
+  y: 0mm
+  width: 70mm
+  height: 15mm
+  fill_color: '#aa0000'
+  stroke_width: 0
+
+epoch_band:
+  x: 0mm
+  y: 15mm
+  width: 70mm
+  height: 5mm
+  fill_color: '#660000'
+  stroke_width: 0
+
+title:
+  x: 3mm
+  y: 1mm
+  width: 64mm
+  height: 13mm
+  font: 'Arial Bold 16'
+  color: '#ffffff'
+  align: center
+  valign: middle
+  overflow: shrink
+
+epoch:
+  x: 2mm
+  y: 15mm
+  width: 66mm
+  height: 5mm
+  font: 'Arial 10'
+  color: '#ffffff'
+  valign: middle
+
+weapon_image:
+  x: 3.5mm
+  y: 22mm
+  width: 63mm
+  height: 30mm
+
+weapon_note:
+  x: 3mm
+  y: 48.5mm
+  width: 64mm
+  height: 4.5mm
+  font: 'Arial Italic 8'
+  color: '#660000'
+  align: center
+  valign: middle
+  overflow: shrink
+
+stat_label:
+  x: 2mm
+  width: 19mm
+  height: 5.5mm
+  font: 'Arial Bold 10'
+  color: '#000000'
+  valign: middle
+
+stat_value:
+  x: 21mm
+  width: 47mm
+  height: 5.5mm
+  font: 'Arial 10'
+  color: '#000000'
+  valign: middle
+  overflow: shrink
+
+stat_line:
+  x1: 2mm
+  x2: 68mm
+  stroke_color: '#999999'
+  stroke_width: 0.15mm
+
+back_frame:
+  x: 0mm
+  y: 0mm
+  width: 70mm
+  height: 99mm
+  fill_color: '#ffffff'
+  stroke_color: '#aa0000'
+  stroke_width: 0.7mm
+
+back_logo:
+  x: 3.5mm
+  y: 2mm
+  width: 63mm
+  height: 17mm
+
+back_type:
+  x: 3.5mm
+  y: 18mm
+  width: 63mm
+  height: 63mm
+  alpha: 0.92
+
+back_title:
+  x: 4mm
+  y: 25mm
+  width: 62mm
+  height: 48mm
+  font: 'Arial Bold 18'
+  color: '#000000'
+  align: center
+  valign: middle
+  overflow: shrink
+
